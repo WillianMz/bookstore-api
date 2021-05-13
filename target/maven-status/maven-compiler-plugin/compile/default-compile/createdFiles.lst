@@ -1,0 +1,3 @@
+br\com\bookstore\api\JAXRSConfiguration.class
+br\com\bookstore\api\helloworld\HelloWorldResource.class
+br\com\bookstore\api\resources\JavaEE8Resource.class
