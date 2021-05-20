@@ -1,3 +1,6 @@
+br\com\bookstore\api\autor\Autor.class
+br\com\bookstore\api\autor\AutorResponse.class
+br\com\bookstore\api\resources\JavaEE8Resource.class
 br\com\bookstore\api\JAXRSConfiguration.class
 br\com\bookstore\api\helloworld\HelloWorldResource.class
-br\com\bookstore\api\resources\JavaEE8Resource.class
+br\com\bookstore\api\autor\Genero.class

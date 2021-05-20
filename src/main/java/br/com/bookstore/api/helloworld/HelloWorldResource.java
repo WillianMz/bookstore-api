@@ -8,7 +8,7 @@ import javax.ws.rs.GET;
  *
  * @author Willian
  */
-@Path("hello-world")
+@Path("/hello-world")
 public class HelloWorldResource {
     
     @GET
